@@ -103,11 +103,7 @@ export default function Home() {
               </div>
               <div className="relative aspect-square overflow-hidden rounded-lg">
                 <Image
-<<<<<<< HEAD
-                  src="/images/karsilama.png" 
-=======
                   src="/images/karsilama-2.png" 
->>>>>>> 4ef3caf (ilk commit)
                   height={600}
                   width={600}
                   alt="Kahve hazırlanırken"
