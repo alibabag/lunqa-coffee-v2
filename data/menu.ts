@@ -40,31 +40,6 @@ export const sicakIcecekler = [
 
 
 export const sogukIcecekler = [
-<<<<<<< HEAD
-  { name: "Freddo Espresso", description: "Soğuk espresso bazlı içecek", image: "/images/soguklar/freddo-espresso.jpg" },
-  { name: "Iced Americano", description: "Buzlu americano", image: "/images/soguklar/iced-americano.jpg" },
-  { name: "Iced Filtre", description: "Buzla servis edilen filtre kahve", image: "/images/soguklar/iced-filtre.jpg" },
-  { name: "Iced Latte", description: "Buzlu sütlü espresso", image: "/images/soguklar/iced-latte.jpg" },
-  { name: "Iced Mocha", description: "Çikolatalı buzlu latte", image: "/images/soguklar/iced-caramel-latte.jpg" },
-  { name: "Iced White Mocha", description: "Beyaz çikolatalı buzlu mocha", image: "/images/soguklar/iced-caramel-latte.jpg" },
-  { name: "Iced Chai Latte", description: "Baharatlı buzlu sütlü çay", image: "/images/soguklar/iced-chailatte.jpg" },
-  { name: "Iced Caramel Latte", description: "Karamelli buzlu latte", image: "/images/soguklar/iced-caramel-latte.jpg" },
-  { name: "Iced Toffenut Latte", description: "Karamel-fındık aromalı buzlu latte", image: "/images/soguklar/iced-caramel-latte.jpg" },
-  { name: "Iced Wonderland", description: "Özel aromalı buzlu latte", image: "/images/soguklar/iced-caramel-latte.jpg" },
-  { name: "Ekşikmtruck", description: "Ekşi ferahlatıcı içecek", image: "/images/soguklar/eksikmtruck.jpg" },
-  { name: "Cold Brew", description: "Uzun süre demlenmiş soğuk kahve", image: "/images/soguklar/cold-brew.jpg" },
-  { name: "Blue Ocean Lemonade", description: "Mavi renkli ferahlatıcı limonata", image: "/images/soguklar/limonata.jpg" },
-  { name: "Limonata", description: "Taze limonla hazırlanmış içecek", image: "/images/soguklar/limonata.jpg" },
-  { name: "Çilek Limonata", description: "Çilek aromalı limonata", image: "/images/soguklar/cilek-limonata.jpg" },
-  { name: "Portakal Suyu", description: "Taze sıkılmış portakal suyu", image: "/images/soguklar/portakal-suyu.jpg" },
-  { name: "Milkshake", description: "Soğuk sütlü tatlı içecek", image: "/images/soguklar/milkshake.jpg" },
-  { name: "Frozen Çeşitleri", description: "Soğuk, buzlu tatlı içecekler", image: "/images/soguklar/frozen.jpg" },
-  { name: "Oreo Dream", description: "Oreo parçacıklı milkshake", image: "/images/soguklar/milkshake.jpg" },
-  { name: "Cool Lime", description: "Naneli, limonlu serinletici içecek", image: "/images/soguklar/cool-lime.jpg" },
-  { name: "Hibiscus / Mango", description: "Meyve aromalı bitki içeceği", image: "/images/soguklar/hibiscus-mango.jpg" },
-  { name: "Churchill", description: "Tuzlu limonlu serinletici içecek", image: "/images/soguklar/churchill.jpg" },
-  { name: "Bubble Tea", description: "Tapioka toplarıyla çay bazlı içecek", image: "/images/soguklar/bubble-tea.jpg" },
-=======
   { name: "Freddo Espresso", description: "Soğuk espresso bazlı içecek", image: "/images/soguklar/freddoespresso.jpg" },
   { name: "Iced Americano", description: "Buzlu americano", image: "/images/soguklar/icedamericano.jpg" },
   { name: "Iced Filtre", description: "Buzla servis edilen filtre kahve", image: "/images/soguklar/icedfiltre.jpg" },
@@ -88,7 +63,6 @@ export const sogukIcecekler = [
   { name: "Hibiscus / Mango", description: "Meyve aromalı bitki içeceği", image: "/images/soguklar/eksimtruck.jpg" },
   { name: "Churchill", description: "Tuzlu limonlu serinletici içecek", image: "/images/soguklar/churchill.jpg" },
   { name: "Bubble Tea", description: "Tapioka toplarıyla çay bazlı içecek", image: "/images/soguklar/bubbletea.jpg" },
->>>>>>> 4ef3caf (ilk commit)
 ];
 
 
